@@ -21,7 +21,7 @@ import static org.quicktheories.generators.SourceDSL.*;
 
 /**
  *
- * @author hcadavid, fchaves
+ * @author hcadavid, fchaves, jclopez
  */
 public class TransformationsTest {
     
